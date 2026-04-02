@@ -1,12 +1,19 @@
 ## Hi there 👋
 
-##I am a Computer Science graduate with hands-on experience in enterprise web application development using
+I am a Computer Science graduate with hands-on experience in enterprise web application development using
 Mendix, React, and JavaScript. Skilled in developing CRUD functionalities, data processing, API integration,
 and pixel-perfect UI implementation from Figma designs. I am especially knowledgeable in web development in both frontend
 and backend.
+
+<h1>Works:<h1/>
+
+<img width="1910" height="905" alt="image" src="https://github.com/user-attachments/assets/675c52f9-eab2-4c64-8b58-222c999c9351" />
+
+
+
 <!--
 **Ald-M/Ald-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img width="1910" height="905" alt="image" src="https://github.com/user-attachments/assets/675c52f9-eab2-4c64-8b58-222c999c9351" />
+
 
 Here are some ideas to get you started:
 
