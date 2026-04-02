@@ -1,19 +1,19 @@
-<h1>Hi there 👋<h1/>
+<h1>Hi there 👋</h1>
 
 I am a Computer Science graduate with hands-on experience in enterprise web application development using
 Mendix, React, and JavaScript. Skilled in developing CRUD functionalities, data processing, API integration,
 and pixel-perfect UI implementation from Figma designs. I am especially knowledgeable in web development in both frontend
 and backend.
 
-<h1>Works:<h1/>
-<h2>1. Railtax<h2>
+<h1>Works:</h1>
+<h2>1. Railtax</h2>
 <img width="1910" height="905" alt="image" src="https://github.com/user-attachments/assets/675c52f9-eab2-4c64-8b58-222c999c9351" />
-▪ Developed an enterprise web application using Mendix called Railtax (https://railtax.kai.id/) for PT Kereta Api Indonesia (Persero).
-▪ Implemented UI designs from Figma into production using Bootstrap and SCSS, ensuring accuracy.
-▪ Developed CRUD functionalities with data validation and custom business logic.
-▪ Created data processing functions and report templates to export company data into Excel format.
-▪ Collaborated with cross-functional teams to ensure business and technical requirements were met.
-Tech Stack: Mendix, JavaScript, Bootstrap, SCSS, SQL
+▪ Developed an enterprise web application using Mendix called Railtax (https://railtax.kai.id/) for PT Kereta Api Indonesia (Persero).<br/>
+▪ Implemented UI designs from Figma into production using Bootstrap and SCSS, ensuring accuracy.<br/>
+▪ Developed CRUD functionalities with data validation and custom business logic.<br/>
+▪ Created data processing functions and report templates to export company data into Excel format.<br/>
+▪ Collaborated with cross-functional teams to ensure business and technical requirements were met.<br/>
+Tech Stack: Mendix, JavaScript, Bootstrap, SCSS, SQL<br/>
 
 
 
