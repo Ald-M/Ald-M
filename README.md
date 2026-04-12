@@ -7,7 +7,7 @@ and backend.
 
 <h1>Works:</h1>
 <details>
-  <summary><h2 style="margin-top:0;">1. Railtax</h2></summary>
+  <summary style="margin-top: 0px;"><h2 style="margin-top: 0px;">1. Railtax</h2></summary>
   
   <img width="1910" height="905" alt="image" src="https://github.com/user-attachments/assets/675c52f9-eab2-4c64-8b58-222c999c9351" />
     ▪ Developed an enterprise web application using Mendix called Railtax (https://railtax.kai.id/) for PT Kereta Api Indonesia (Persero).<br/>
