@@ -18,9 +18,17 @@ and backend.
     Tech Stack: Mendix, JavaScript, Bootstrap, SCSS, SQL<br/>
 </details>
 <details>
-  <summary ><b>1. POS System Thesis Project</b></summary>
+  <summary ><b>2. POS System Thesis Project</b></summary>
   
-    
+  <img width="940" height="602" alt="image" src="https://github.com/user-attachments/assets/7493766b-09dc-4092-81ee-e4b0e7f191f1" />
+  <img width="940" height="598" alt="image" src="https://github.com/user-attachments/assets/4a606e13-7c53-4ae8-a7de-8624ce7cce95" />
+  <img width="940" height="600" alt="image" src="https://github.com/user-attachments/assets/1f9ccdd1-9358-4757-a8c2-46084ec71530" />
+  <img width="940" height="602" alt="image" src="https://github.com/user-attachments/assets/afdf895d-be80-40ce-94a9-910dd097ed03" />
+  <img width="940" height="602" alt="image" src="https://github.com/user-attachments/assets/ba20bc50-8e55-4563-b867-aaddc6b45a55" />
+
+
+
+
   ▪ Developed an Electron-based Point of Sale (POS) application for small to medium-sized businesses.<br/>
   ▪ Implemented frontend using React, Bootstrap, and SCSS.<br/>
   ▪ Developed features including employee invitations, user profiles, store profiles, sales overview, and
