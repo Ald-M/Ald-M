@@ -6,14 +6,19 @@ and pixel-perfect UI implementation from Figma designs. I am especially knowledg
 and backend.
 
 <h1>Works:</h1>
-<h2>1. Railtax</h2>
-<img width="1910" height="905" alt="image" src="https://github.com/user-attachments/assets/675c52f9-eab2-4c64-8b58-222c999c9351" />
-▪ Developed an enterprise web application using Mendix called Railtax (https://railtax.kai.id/) for PT Kereta Api Indonesia (Persero).<br/>
-▪ Implemented UI designs from Figma into production using Bootstrap and SCSS, ensuring accuracy.<br/>
-▪ Developed CRUD functionalities with data validation and custom business logic.<br/>
-▪ Created data processing functions and report templates to export company data into Excel format.<br/>
-▪ Collaborated with cross-functional teams to ensure business and technical requirements were met.<br/>
-Tech Stack: Mendix, JavaScript, Bootstrap, SCSS, SQL<br/>
+<details>
+  <summary><h2>1. Railtax</h2></summary>
+  
+  <img width="1910" height="905" alt="image" src="https://github.com/user-attachments/assets/675c52f9-eab2-4c64-8b58-222c999c9351" />
+    ▪ Developed an enterprise web application using Mendix called Railtax (https://railtax.kai.id/) for PT Kereta Api Indonesia (Persero).<br/>
+    ▪ Implemented UI designs from Figma into production using Bootstrap and SCSS, ensuring accuracy.<br/>
+    ▪ Developed CRUD functionalities with data validation and custom business logic.<br/>
+    ▪ Created data processing functions and report templates to export company data into Excel format.<br/>
+    ▪ Collaborated with cross-functional teams to ensure business and technical requirements were met.<br/>
+    Tech Stack: Mendix, JavaScript, Bootstrap, SCSS, SQL<br/>
+</details>
+
+
 
 
 
