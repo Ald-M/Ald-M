@@ -20,12 +20,13 @@ and backend.
 <details>
   <summary ><b>1. POS System Thesis Project</b></summary>
   
-    ▪ Developed an Electron-based Point of Sale (POS) application for small to medium-sized businesses.<br/>
-    ▪ Implemented frontend using React, Bootstrap, and SCSS.<br/>
-    ▪ Developed features including employee invitations, user profiles, store profiles, sales overview, and
+    
+  ▪ Developed an Electron-based Point of Sale (POS) application for small to medium-sized businesses.<br/>
+  ▪ Implemented frontend using React, Bootstrap, and SCSS.<br/>
+  ▪ Developed features including employee invitations, user profiles, store profiles, sales overview, and
 inventory overview.<br/>
-    ▪ Integrated Firebase for authentication and data management.<br/>
-    Tech Stack: React, Node, JavaScript, Firebase, Electron, Bootstrap, SCSS<br/>
+  ▪ Integrated Firebase for authentication and data management.<br/>
+  Tech Stack: React, Node, JavaScript, Firebase, Electron, Bootstrap, SCSS<br/>
 </details>
 
 
